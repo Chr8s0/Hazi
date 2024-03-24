@@ -1,0 +1,7 @@
+C:\Users\kr8sz\OneDrive\Desktop\AzAsssz\C#\C# hazi\Hazi\bin\Debug\Hazi.exe.config
+C:\Users\kr8sz\OneDrive\Desktop\AzAsssz\C#\C# hazi\Hazi\bin\Debug\Hazi.exe
+C:\Users\kr8sz\OneDrive\Desktop\AzAsssz\C#\C# hazi\Hazi\bin\Debug\Hazi.pdb
+C:\Users\kr8sz\OneDrive\Desktop\AzAsssz\C#\C# hazi\Hazi\obj\Debug\Hazi.csproj.AssemblyReference.cache
+C:\Users\kr8sz\OneDrive\Desktop\AzAsssz\C#\C# hazi\Hazi\obj\Debug\Hazi.csproj.CoreCompileInputs.cache
+C:\Users\kr8sz\OneDrive\Desktop\AzAsssz\C#\C# hazi\Hazi\obj\Debug\Hazi.exe
+C:\Users\kr8sz\OneDrive\Desktop\AzAsssz\C#\C# hazi\Hazi\obj\Debug\Hazi.pdb
